@@ -1,0 +1,13 @@
+/reload
+/datapack
+/datapack list
+/reload
+/datapack list
+/reload
+/datapack list
+/datapack list enabled
+/datapack list
+/data get block -273 76 148
+/datapack list
+/data get entity @s SelectedItem
+/time set minecraft:day

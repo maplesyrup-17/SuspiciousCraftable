@@ -1,0 +1,52 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:writable_book": 3,
+      "minecraft:suspicious_sand": 75,
+      "minecraft:bookshelf": 17,
+      "minecraft:crafting_table": 1,
+      "minecraft:suspicious_gravel": 1,
+      "minecraft:anvil": 1,
+      "minecraft:enchanting_table": 1,
+      "minecraft:brush": 42,
+      "minecraft:wooden_shovel": 5
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 16,
+      "minecraft:time_since_rest": 7429,
+      "minecraft:walk_one_cm": 14537,
+      "minecraft:leave_game": 5,
+      "minecraft:play_time": 17430,
+      "minecraft:jump": 64,
+      "minecraft:time_since_death": 7403,
+      "minecraft:sprint_one_cm": 13760,
+      "minecraft:total_world_time": 17430,
+      "minecraft:fly_one_cm": 39681,
+      "minecraft:interact_with_anvil": 4,
+      "minecraft:crouch_one_cm": 428,
+      "minecraft:sneak_time": 84,
+      "minecraft:deaths": 1,
+      "minecraft:enchant_item": 2
+    },
+    "minecraft:mined": {
+      "minecraft:sand": 1,
+      "minecraft:grass_block": 4
+    },
+    "minecraft:picked_up": {
+      "minecraft:bookshelf": 1,
+      "minecraft:wooden_shovel": 2,
+      "minecraft:sweet_berries": 1,
+      "minecraft:dirt": 4,
+      "minecraft:diamond_shovel": 3,
+      "minecraft:brick": 1,
+      "minecraft:writable_book": 1,
+      "minecraft:sand": 1,
+      "minecraft:iron_shovel": 2
+    },
+    "minecraft:crafted": {
+      "minecraft:suspicious_sand": 14,
+      "minecraft:suspicious_gravel": 1
+    }
+  },
+  "DataVersion": 5023
+}
