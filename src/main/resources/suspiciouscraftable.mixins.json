@@ -3,8 +3,7 @@
   "package": "dev.maplesyrup.suspiciouscraftable.mixin",
   "mixins": [
     "BlockEntityMixin",
-    "BrushableBlockEntityAccessor",
-    "MarkerMixin"
+    "BrushableBlockEntityAccessor"
   ],
   "injectors": {
     "defaultRequire": 1
